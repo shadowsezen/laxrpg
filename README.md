@@ -1,2 +1,2 @@
 # laxrpg
-Personal Game Project
+learning c#
